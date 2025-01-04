@@ -2,7 +2,12 @@ App Abstract: "DFREE - The Wellness Hub"
 Overview:
 DFREE - The Wellness Hub is a comprehensive mobile application designed to create a drug-free society through prevention, support, and community engagement. This innovative platform connects individuals with rehabilitation centers, law enforcement, and volunteers while providing essential educational resources and emergency support. The app serves as a central hub for creating positive change in communities across India through its integrated approach to combating substance abuse.
 
-Key Features:
+### Features
+
+- **Login** []  
+- **Signup** []
+
+### Key Features:
 
 1. Instant Support Network:
    - Quick access to nearby rehabilitation centers with real-time availability
